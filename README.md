@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data analytics pipeline built to analyze order fulfillment performance and revenue loss for a fictional retail company
 The pipeline includes:
 - Supabase (PostgreSQL) as the data warehouse
-- n8n for automated ETL workflows
+- n8n for automated ETL workflows to get sales info from mail
 - Quadratic for Python-based transformations and analysis
 
 ## Project Architecture
